@@ -24,6 +24,11 @@
       "title": "Washington D.C.",
       "id": "3c647dba420a4f3da9091ae83772e78e",
       "attribution": "Open data building 3D model provided by <a href='http://opendata.dc.gov/datasets?q=buildings%203Df' target='_blank'>DCGISopendata</a>"
+    },
+    {
+      "title": "Geneve",
+      "id": "9a34eb6038414a7984e91a8aef834b1a",
+      "attribution": "Source : Système d'information du territoire à Genève (SITG)"
     }
   ]
 }
